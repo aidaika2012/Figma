@@ -1,0 +1,59 @@
+img{
+    width: 1300px;
+    height: 1260px;
+    
+    
+}
+button.in{
+    width: 136px;
+    height: 42px;
+    top: 42px;
+    left: 512px;
+    border-radius: 200px;
+    border: 1px;
+    color: rgb(7, 7, 7);
+    border:1px white ;
+    background-color: rgb(70, 70, 210);
+    
+}
+button.img{
+    width: 6.995332717895508;
+    height: 11.210817337036133;
+    top: 17.31px;
+    left: 16.88px;
+    opacity: 1;
+
+}
+h1.index{
+    width: 680px;
+    height: 180px;
+    top: 222px;
+    left: 360px;
+font-style: 12px;
+line-height: 140%;
+letter-spacing: 2%;
+ background: (0, 0%, 100%, 1);
+border-color: black;
+align-items: center;
+color: rgb(15, 15, 15);
+}
+
+button{
+
+    width: 280px;
+    height: 50px;
+    top: 630px;
+    left: 1260px;
+    border-radius: 200px;
+    background-color: chocolate;
+    border: chocolate;
+}
+button.info{
+    width:280px ;
+    height: 50px;
+    background-color: white;
+    color: rgb(97, 95, 95);
+    top:630px ;
+    left: 1260px;
+    border: black;
+}
